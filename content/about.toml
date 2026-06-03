@@ -1,0 +1,33 @@
+type = "about"
+title = "About Me"
+
+[profile]
+research_interests = [
+  "Computer Vision",
+  "World Models",
+  "Embodied AI",
+]
+
+[[sections]]
+id = "about"
+type = "markdown"
+source = "bio.md"
+title = "About Me"
+
+[[sections]]
+id = "education"
+type = "cards"
+source = "education.toml"
+title = "Education"
+
+[[sections]]
+id = "personal"
+type = "markdown"
+source = "personal.md"
+title = "Personal"
+
+[[sections]]
+id = "news"
+type = "list"
+title = "News"
+source = "news.toml"

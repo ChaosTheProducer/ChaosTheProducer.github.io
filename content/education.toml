@@ -1,0 +1,24 @@
+type = "card"
+title = "Education"
+description = ""
+
+[[items]]
+title = "Johns Hopkins University"
+subtitle = "M.S.E. in Computer Science"
+date = "Fall 2026"
+image = "/school-logos/jhu.webp"
+content = "Incoming master's student in the Department of Computer Science."
+
+[[items]]
+title = "South China Normal University - Aberdeen Institute of DSAI"
+subtitle = "B.Eng. in Artificial Intelligence"
+date = "2022-2026"
+image = "/school-logos/scnu_shield.png"
+content = "Chinese degree-awarding institution in my dual-degree undergraduate program."
+
+[[items]]
+title = "University of Aberdeen"
+subtitle = "B.Sc. (Hons) in Artificial Intelligence"
+date = "2022-2026"
+image = "/school-logos/aberdeen.svg"
+content = "UK degree-awarding institution in my dual-degree undergraduate program. Graduated with First Class Honours."

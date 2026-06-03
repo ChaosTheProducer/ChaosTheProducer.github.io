@@ -1,0 +1,62 @@
+[site]
+title = "Yingjie Lei"
+description = "Academic homepage of Yingjie Lei"
+favicon = "/favicon.png"
+last_updated = "June 2, 2026"
+
+[author]
+name = "Yingjie Lei"
+title = "Incoming M.S.E. Student in Computer Science"
+institution = "Johns Hopkins University"
+avatar = "/profile.jpg"
+
+[social]
+email = "ylei25@jh.edu"
+location = ""
+location_url = ""
+location_details = []
+google_scholar = "https://scholar.google.com/citations?hl=en&user=Br7AqxcAAAAJ"
+orcid = "https://orcid.org/0009-0004-1279-3228"
+github = "https://github.com/ChaosTheProducer"
+linkedin = "https://www.linkedin.com/in/yingjie-lei-354411297/"
+xiaohongshu = "https://www.xiaohongshu.com/user/profile/5b74fb41301404000116893b"
+
+[features]
+enable_likes = false
+enable_one_page_mode = false
+
+[i18n]
+enabled = false
+locales = ["en"]
+default_locale = "en"
+mode = "fixed"
+fixed_locale = "en"
+persist = false
+switcher = false
+
+[i18n.labels]
+en = "English"
+
+[[navigation]]
+title = "About"
+type = "page"
+target = "about"
+href = "/"
+
+[[navigation]]
+title = "Publications"
+type = "page"
+target = "publications"
+href = "/publications"
+
+[[navigation]]
+title = "Projects"
+type = "page"
+target = "projects"
+href = "/projects"
+
+[[navigation]]
+title = "CV"
+type = "page"
+target = "cv"
+href = "/Yingjie_Lei_CV.pdf"
