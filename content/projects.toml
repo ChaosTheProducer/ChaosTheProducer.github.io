@@ -10,6 +10,6 @@ content = "Supervised by [Dr. Binod Bhattarai](https://sites.google.com/view/bbi
 
 [[items]]
 title = "TempoPilot"
-subtitle = "JC3510 Software Engineering Course Project"
+subtitle = "JC3510 Intelligent Software Implementation Course Project"
 date = "2025"
-content = "An open-source PyQt6 schedule management application developed for the JC3510 Software Engineering course at SCNU-Aberdeen Institute. It supports interactive daily schedules, event editing, SQLite-backed persistence, AI-powered activity recommendations with DeepSeek, and map-based navigation. [GitHub Repository](https://github.com/ChaosTheProducer/TempoPilot)"
+content = "An open-source PyQt6 schedule management application developed for the JC3510 Intelligent Software Implementation course at SCNU-Aberdeen Institute. It supports interactive daily schedules, event editing, SQLite-backed persistence, AI-powered activity recommendations with DeepSeek, and map-based navigation. [GitHub Repository](https://github.com/ChaosTheProducer/TempoPilot)"
