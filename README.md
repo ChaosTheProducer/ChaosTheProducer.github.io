@@ -4,11 +4,13 @@ This repository contains the source code for my personal academic homepage:
 
 https://ChaosTheProducer.github.io/
 
-The site is built with Next.js and adapted from the PRISM academic website template. It is deployed to GitHub Pages through GitHub Actions.
+The site is built with Next.js and adapted from the open-source [PRISM](https://github.com/xyjoey/PRISM) academic website template. It is deployed to GitHub Pages through GitHub Actions.
 
-## Content
+This repository is public because it serves a public academic homepage. The content is intended for academic presentation, including my bio, publications, projects, CV, and selected public materials.
 
-Most editable content lives in `content/`:
+## Editing
+
+Most homepage text can be updated from `content/`:
 
 - `content/bio.md`: homepage bio
 - `content/config.toml`: site metadata, navigation, social links, and last updated date
@@ -17,7 +19,7 @@ Most editable content lives in `content/`:
 - `content/publications.bib`: publications and preprints
 - `content/projects.toml`: selected projects
 
-Static files live in `public/`, including the CV PDF, profile photo, paper preview images, and thesis PDF.
+Static files such as the CV PDF, profile photo, and preview images live in `public/`.
 
 ## Local Development
 
