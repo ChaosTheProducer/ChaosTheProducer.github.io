@@ -1,5 +1,5 @@
 I am Yingjie Lei, an incoming M.S.E. student in Computer Science at Johns Hopkins University in Fall 2026.
-I received dual degrees in Artificial Intelligence from South China Normal University and the University of Aberdeen, graduating with First Class Honours from the University of Aberdeen.
+Prior to this, I received dual undergraduate degrees in Artificial Intelligence from South China Normal University and the University of Aberdeen, graduating with First Class Honours from the University of Aberdeen.
 
 My research interests lie in computer vision and world models for embodied planning and robot learning.
 I am especially interested in how visual and learned world representations can support action, prediction, and decision-making.
