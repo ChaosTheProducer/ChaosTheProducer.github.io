@@ -4,7 +4,7 @@ description = "Selected public research and course projects beyond the publicati
 
 [[items]]
 title = "Undergraduate Thesis: Personalized Pricing of Customized Car Features"
-subtitle = "Thesis grade: 92/100; Outstanding Thesis (top 10%)"
+subtitle = "Thesis grade: 92/100; Outstanding Thesis (one of 7 selected from about 260-270 graduates)"
 date = "2026"
 content = "Supervised by [Dr. Binod Bhattarai](https://sites.google.com/view/bbinod). This thesis formulated personalized pricing of customized car features as a POMDP with hidden buyer preferences, multi-round negotiation, and sequential decision-making agents. It was later refined into the arXiv preprint PrefBench, although the thesis and preprint differ in scope and presentation. [Thesis PDF](/files/Yingjie_Lei_Undergraduate_Thesis.pdf)"
 
