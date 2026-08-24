@@ -1,4 +1,4 @@
-I am Yingjie Lei, an incoming M.S.E. student in Computer Science at Johns Hopkins University in Fall 2026.
+I am Yingjie Lei, an M.S.E. student in Computer Science at Johns Hopkins University.
 Prior to this, I received dual undergraduate degrees in Artificial Intelligence from South China Normal University and the University of Aberdeen, graduating with First Class Honours from the University of Aberdeen.
 
 My research interests lie in representation learning, world models, and embodied AI.

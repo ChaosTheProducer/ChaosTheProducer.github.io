@@ -4,7 +4,7 @@ The latest PDF version of my academic CV is available here:
 
 ## Education
 
-**Johns Hopkins University**, M.S.E. in Computer Science, *starting Fall 2026*
+**Johns Hopkins University**, M.S.E. in Computer Science, *Aug. 2026 - Present*
 
 **South China Normal University - Aberdeen Institute of Data Science & AI**, B.Eng. & B.Sc. (Hons) in Artificial Intelligence, *2022 - 2026*  
 Graduated with First Class Honours from the University of Aberdeen. Undergraduate thesis grade: 92/100; selected as Outstanding Thesis (top ~3%).

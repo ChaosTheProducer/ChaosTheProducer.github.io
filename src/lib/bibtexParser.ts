@@ -163,7 +163,7 @@ function buildNameVariants(name: string): Set<string> {
   return variants;
 }
 
-function parseAuthors(authorsStr: string, highlightNames: string[]): Array<{ name: string; isHighlighted?: boolean; isCorresponding?: boolean; isCoAuthor?: boolean }> {
+function parseAuthors(authorsStr: string, highlightNames: string[]): Array<{ name: string; isHighlighted?: boolean; isEqualContribution?: boolean; isCoAuthor?: boolean }> {
   if (!authorsStr) return [];
 
   const highlightTextCandidates = new Set<string>();
@@ -187,8 +187,8 @@ function parseAuthors(authorsStr: string, highlightNames: string[]): Array<{ nam
       // Clean up the author name
       let name = author.trim();
 
-      // Check for corresponding author marker
-      const isCorresponding = name.includes('*');
+      // Check for equal-contribution marker
+      const isEqualContribution = name.includes('*');
 
       // Check for co-author marker (#)
       const isCoAuthor = name.includes('#');
@@ -214,7 +214,7 @@ function parseAuthors(authorsStr: string, highlightNames: string[]): Array<{ nam
       return {
         name,
         isHighlighted,
-        isCorresponding,
+        isEqualContribution,
         isCoAuthor,
       };
     })

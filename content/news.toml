@@ -1,4 +1,8 @@
 [[news]]
+date = "2026-08"
+content = "I joined Johns Hopkins University as an M.S.E. student in Computer Science."
+
+[[news]]
 date = "2026-06"
 content = "I will serve as a reviewer for IJCNN 2027."
 
@@ -9,10 +13,6 @@ content = "My undergraduate thesis was selected as an Outstanding Thesis (top ~3
 [[news]]
 date = "2026-05"
 content = "Released PrefBench as an arXiv preprint."
-
-[[news]]
-date = "2026-04"
-content = "I will join Johns Hopkins University as an M.S.E. student in Computer Science in Fall 2026."
 
 [[news]]
 date = "2026-03"

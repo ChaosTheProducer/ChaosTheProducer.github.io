@@ -5,7 +5,7 @@ export interface Author {
   email?: string;
   orcid?: string;
   isHighlighted?: boolean;
-  isCorresponding?: boolean;
+  isEqualContribution?: boolean;
   isCoAuthor?: boolean;
 }
 

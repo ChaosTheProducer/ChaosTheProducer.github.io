@@ -235,12 +235,15 @@ export default function PublicationsList({ config, publications, embedded = fals
                                                 <span className={`${author.isHighlighted ? 'font-semibold text-accent' : ''} ${author.isCoAuthor ? `underline underline-offset-4 ${author.isHighlighted ? 'decoration-accent' : 'decoration-neutral-400'}` : ''}`}>
                                                     {author.name}
                                                 </span>
-                                                {author.isCorresponding && (
-                                                    <sup className={`ml-0 ${author.isHighlighted ? 'text-accent' : 'text-neutral-600 dark:text-neutral-400'}`}>†</sup>
+                                                {author.isEqualContribution && (
+                                                    <sup className={`ml-0 ${author.isHighlighted ? 'text-accent' : 'text-neutral-600 dark:text-neutral-400'}`}>*</sup>
                                                 )}
                                                 {idx < pub.authors.length - 1 && ', '}
                                             </span>
                                         ))}
+                                        {pub.authors.some(author => author.isEqualContribution) && (
+                                            <span className="block text-xs mt-1">* Equal contribution</span>
+                                        )}
                                     </p>
                                     <p className="text-sm font-medium text-neutral-800 dark:text-neutral-600 mb-3">
                                         {pub.venue || `${pub.journal || pub.conference} ${pub.year}`}
