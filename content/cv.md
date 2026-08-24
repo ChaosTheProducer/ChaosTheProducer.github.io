@@ -11,7 +11,7 @@ Graduated with First Class Honours from the University of Aberdeen. Undergraduat
 
 ## Research Interests
 
-Representation learning, world models, and embodied AI.
+World models, representation learning, and embodied AI.
 
 ## Selected Publications
 

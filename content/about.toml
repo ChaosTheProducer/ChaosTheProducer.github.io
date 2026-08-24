@@ -3,8 +3,8 @@ title = "About Me"
 
 [profile]
 research_interests = [
-  "Representation Learning",
   "World Models",
+  "Representation Learning",
   "Embodied AI",
 ]
 
