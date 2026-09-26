@@ -3,9 +3,9 @@ title = "About Me"
 
 [profile]
 research_interests = [
-  "World Models",
-  "Representation Learning",
   "Embodied AI",
+  "Robot Learning",
+  "Representation Learning",
 ]
 
 [[sections]]
