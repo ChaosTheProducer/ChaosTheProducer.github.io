@@ -2,13 +2,13 @@
 title = "Yingjie Lei"
 description = "Academic homepage of Yingjie Lei"
 favicon = "/favicon.png"
-last_updated = "September 2026"
+last_updated = "October 2026"
 
 [author]
 name = "Yingjie Lei"
 title = "M.S.E. Student in Computer Science"
 institution = "Johns Hopkins University"
-avatar = "/profile.jpg"
+avatar = "/profile-vatican.jpg"
 
 [social]
 email = "ylei25@jh.edu"
